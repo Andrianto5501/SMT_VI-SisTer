@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LatihanStream_1213.Properties
+namespace LatihanStream_1198.Properties
 {
 
 

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LatihanStream_1213")]
+[assembly: AssemblyTitle("LatihanStream_1198")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LatihanStream_1213")]
+[assembly: AssemblyProduct("LatihanStream_1198")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("245b1851-09c5-43d7-8956-2b9a2974db17")]
+[assembly: Guid("b4710732-fa1f-4300-a1d1-5e6ad5b4cee0")]
 
 // Version information for an assembly consists of the following four values:
 //
