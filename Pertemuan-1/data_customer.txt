@@ -1,0 +1,7 @@
+c01,Hendra Sanjaya,Jakarta
+c02,Didik Pribadi,Bandung
+c03,Febri Hadnata,Bekasi
+c04,Inge Rosalina,Jakarata
+c05,Ruli Wijaya,Semarang
+c06,Emilia,Surabaya
+c07,Diana,Bandung

@@ -1,0 +1,7 @@
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebServiceSuhu\bin\WebServiceSuhu.dll.config
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebServiceSuhu\bin\WebServiceSuhu.dll
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebServiceSuhu\bin\WebServiceSuhu.pdb
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebServiceSuhu\obj\Debug\WebServiceSuhu.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebServiceSuhu\obj\Debug\WebServiceSuhu.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebServiceSuhu\obj\Debug\WebServiceSuhu.dll
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebServiceSuhu\obj\Debug\WebServiceSuhu.pdb

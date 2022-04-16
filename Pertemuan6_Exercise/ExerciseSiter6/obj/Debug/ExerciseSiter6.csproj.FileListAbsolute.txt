@@ -1,0 +1,11 @@
+C:\Users\andri\source\repos\University\ExerciseSiter6\bin\Debug\ExerciseSiter6.exe.config
+C:\Users\andri\source\repos\University\ExerciseSiter6\bin\Debug\ExerciseSiter6.exe
+C:\Users\andri\source\repos\University\ExerciseSiter6\bin\Debug\ExerciseSiter6.pdb
+C:\Users\andri\source\repos\University\ExerciseSiter6\obj\Debug\ExerciseSiter6.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\University\ExerciseSiter6\obj\Debug\ExerciseSiter6.csproj.SuggestedBindingRedirects.cache
+C:\Users\andri\source\repos\University\ExerciseSiter6\obj\Debug\ExerciseSiter6.Form1.resources
+C:\Users\andri\source\repos\University\ExerciseSiter6\obj\Debug\ExerciseSiter6.Properties.Resources.resources
+C:\Users\andri\source\repos\University\ExerciseSiter6\obj\Debug\ExerciseSiter6.csproj.GenerateResource.cache
+C:\Users\andri\source\repos\University\ExerciseSiter6\obj\Debug\ExerciseSiter6.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\University\ExerciseSiter6\obj\Debug\ExerciseSiter6.exe
+C:\Users\andri\source\repos\University\ExerciseSiter6\obj\Debug\ExerciseSiter6.pdb

@@ -1,0 +1,7 @@
+C:\Users\andri\source\repos\University\exercise_web_service\bin\exercise_web_service.dll.config
+C:\Users\andri\source\repos\University\exercise_web_service\bin\exercise_web_service.dll
+C:\Users\andri\source\repos\University\exercise_web_service\bin\exercise_web_service.pdb
+C:\Users\andri\source\repos\University\exercise_web_service\obj\Debug\exercise_web_service.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\University\exercise_web_service\obj\Debug\exercise_web_service.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\University\exercise_web_service\obj\Debug\exercise_web_service.dll
+C:\Users\andri\source\repos\University\exercise_web_service\obj\Debug\exercise_web_service.pdb

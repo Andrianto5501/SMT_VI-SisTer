@@ -1,0 +1,11 @@
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebClientSuhu\bin\Debug\WebClientSuhu.exe.config
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebClientSuhu\bin\Debug\WebClientSuhu.exe
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebClientSuhu\bin\Debug\WebClientSuhu.pdb
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebClientSuhu\obj\Debug\WebClientSuhu.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebClientSuhu\obj\Debug\WebClientSuhu.csproj.SuggestedBindingRedirects.cache
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebClientSuhu\obj\Debug\WebClientSuhu.Form1.resources
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebClientSuhu\obj\Debug\WebClientSuhu.Properties.Resources.resources
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebClientSuhu\obj\Debug\WebClientSuhu.csproj.GenerateResource.cache
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebClientSuhu\obj\Debug\WebClientSuhu.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebClientSuhu\obj\Debug\WebClientSuhu.exe
+C:\Users\andri\source\repos\University\Pertemuan5_WebService\WebClientSuhu\obj\Debug\WebClientSuhu.pdb

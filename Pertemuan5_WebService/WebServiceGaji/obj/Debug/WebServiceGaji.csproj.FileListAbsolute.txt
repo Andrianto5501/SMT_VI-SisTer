@@ -1,0 +1,7 @@
+C:\Users\andri\source\repos\University\SisTer\Pertemuan5_WebService\WebServiceGaji\bin\WebServiceGaji.dll.config
+C:\Users\andri\source\repos\University\SisTer\Pertemuan5_WebService\WebServiceGaji\bin\WebServiceGaji.dll
+C:\Users\andri\source\repos\University\SisTer\Pertemuan5_WebService\WebServiceGaji\bin\WebServiceGaji.pdb
+C:\Users\andri\source\repos\University\SisTer\Pertemuan5_WebService\WebServiceGaji\obj\Debug\WebServiceGaji.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\University\SisTer\Pertemuan5_WebService\WebServiceGaji\obj\Debug\WebServiceGaji.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\University\SisTer\Pertemuan5_WebService\WebServiceGaji\obj\Debug\WebServiceGaji.dll
+C:\Users\andri\source\repos\University\SisTer\Pertemuan5_WebService\WebServiceGaji\obj\Debug\WebServiceGaji.pdb

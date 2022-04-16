@@ -1,0 +1,10 @@
+C:\Users\andri\source\repos\University\Pertemuan2_Communication\Pertemuan2_Communication\bin\Debug\Pertemuan2_Communication.exe.config
+C:\Users\andri\source\repos\University\Pertemuan2_Communication\Pertemuan2_Communication\bin\Debug\Pertemuan2_Communication.exe
+C:\Users\andri\source\repos\University\Pertemuan2_Communication\Pertemuan2_Communication\bin\Debug\Pertemuan2_Communication.pdb
+C:\Users\andri\source\repos\University\Pertemuan2_Communication\Pertemuan2_Communication\obj\Debug\Pertemuan2_Communication.csprojAssemblyReference.cache
+C:\Users\andri\source\repos\University\Pertemuan2_Communication\Pertemuan2_Communication\obj\Debug\Pertemuan2_Communication.Form1.resources
+C:\Users\andri\source\repos\University\Pertemuan2_Communication\Pertemuan2_Communication\obj\Debug\Pertemuan2_Communication.Properties.Resources.resources
+C:\Users\andri\source\repos\University\Pertemuan2_Communication\Pertemuan2_Communication\obj\Debug\Pertemuan2_Communication.csproj.GenerateResource.cache
+C:\Users\andri\source\repos\University\Pertemuan2_Communication\Pertemuan2_Communication\obj\Debug\Pertemuan2_Communication.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\University\Pertemuan2_Communication\Pertemuan2_Communication\obj\Debug\Pertemuan2_Communication.exe
+C:\Users\andri\source\repos\University\Pertemuan2_Communication\Pertemuan2_Communication\obj\Debug\Pertemuan2_Communication.pdb

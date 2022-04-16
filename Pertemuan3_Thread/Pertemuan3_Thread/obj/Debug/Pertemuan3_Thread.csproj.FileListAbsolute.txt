@@ -1,0 +1,7 @@
+C:\Users\andri\source\repos\University\Pertemuan3_Thread\Pertemuan3_Thread\bin\Debug\Pertemuan3_Thread.exe.config
+C:\Users\andri\source\repos\University\Pertemuan3_Thread\Pertemuan3_Thread\bin\Debug\Pertemuan3_Thread.exe
+C:\Users\andri\source\repos\University\Pertemuan3_Thread\Pertemuan3_Thread\bin\Debug\Pertemuan3_Thread.pdb
+C:\Users\andri\source\repos\University\Pertemuan3_Thread\Pertemuan3_Thread\obj\Debug\Pertemuan3_Thread.csprojAssemblyReference.cache
+C:\Users\andri\source\repos\University\Pertemuan3_Thread\Pertemuan3_Thread\obj\Debug\Pertemuan3_Thread.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\University\Pertemuan3_Thread\Pertemuan3_Thread\obj\Debug\Pertemuan3_Thread.exe
+C:\Users\andri\source\repos\University\Pertemuan3_Thread\Pertemuan3_Thread\obj\Debug\Pertemuan3_Thread.pdb
